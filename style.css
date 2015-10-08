@@ -1,0 +1,40 @@
+#maestro-embed {
+  height: 100%;
+  width: 100%
+}
+
+/* site embeds */
+.maestro-site #player {
+  height: auto !important;
+  width: 100% !important;
+}
+.maestro-site .dynamic-player,
+.maestro-site .dynamic-player object,
+.maestro-site .dynamic-player video {
+  height: auto !important;
+}
+.maestro-site #channel {
+  padding: 0;
+}
+.maestro-site .stats-and-actions {
+  padding: 20px 30px;
+}
+.maestro-site .recent-past-broadcast__message {
+  display: none;
+}
+.maestro-site #broadcast-meta {
+  display: none;
+}
+.maestro-site .upsell-banner {
+  display: none;
+}
+.maestro-site #right-close {
+  display: none;
+}
+.maestro-site #right_col {
+  display: none;
+}
+
+/* player embeds */
+.maestro-player {
+}

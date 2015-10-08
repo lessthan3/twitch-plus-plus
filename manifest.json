@@ -1,0 +1,24 @@
+{
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.twitch.tv/*"
+      ],
+      "css": [
+        "style.css"
+      ],
+      "js": [
+        "loader.js"
+      ]
+    }
+  ],
+  "manifest_version": 2,
+  "name": "Twitch++",
+  "version": "0.1",
+  "web_accessible_resources" : [
+    "/app.js"
+  ]
+}

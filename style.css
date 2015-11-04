@@ -28,7 +28,10 @@
 .maestro-site .upsell-banner {
   display: none;
 }
-.maestro-site #right-close {
+.maestro-site #main_col {
+  margin-right: 0 !important;
+}
+.maestro-site #right_close {
   display: none;
 }
 .maestro-site #right_col {

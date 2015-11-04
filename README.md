@@ -4,6 +4,10 @@
  - supercharge your twitch channel with Maestro (http://info.maestro.io) today
  - or just install and get the premium experience with our partners.
 
+### Install Now
+
+ - [Install The Chrome Extension](https://chrome.google.com/webstore/detail/twitch%20%20/bbicdgodagjbejojobjoapdnffmohbla)
+
 ### Previews
 
 <img width="1440" alt="screen shot 2015-10-07 at 10 44 55 pm" src="https://cloud.githubusercontent.com/assets/1251587/10363489/acd0502e-6d69-11e5-855c-7a60370823eb.png">
